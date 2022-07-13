@@ -1,0 +1,24 @@
+name: Eye
+version: '${version}'
+main: me.vp.eye.Main
+api-version: 1.19
+authors: [ Vp ]
+description: Made by Vp#0001
+website: https://vp-dev.eu
+
+commands:
+  test:
+    description: Test command
+    usage: /<command>
+  togglelightning:
+      description: Toggles lighting on death on/off
+      usage: /<command>
+  toggleadvancementreward:
+      description: Toggles advancement reward on/off
+      usage: /<command>
+  togglejoinmessage:
+      description: Toggles a custom join message
+      usage: /<command>
+  allowplayercountryfetch:
+      description: Allow players country fetching on join
+      usage: /<command>
