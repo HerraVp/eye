@@ -12,13 +12,13 @@ commands:
     usage: /<command>
   togglelightning:
       description: Toggles lighting on death on/off
-      usage: /<command>
+      usage: /<command> <args>
   toggleadvancementreward:
       description: Toggles advancement reward on/off
-      usage: /<command>
+      usage: /<command> <args>
   togglejoinmessage:
-      description: Toggles a custom join message
-      usage: /<command>
+      description: Toggles a custom join message on/off
+      usage: /<command> <args>
   allowplayercountryfetch:
       description: Allow players country fetching on join
-      usage: /<command>
+      usage: /<command> <args>
